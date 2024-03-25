@@ -1,4 +1,4 @@
-# EnhancerMoreAudioSamples
+# GenhancerMoreAudioSamples
 
 This repo holds more audio samples beyond the [demo page](https://sophieymie.github.io/) of paper <i>Genhancer: High-Fidelity Speech Enhancement via Generative Modeling on Discrete Codec Tokens</i>
 
